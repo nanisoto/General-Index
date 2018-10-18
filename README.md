@@ -1,6 +1,6 @@
 # Nani's Index - Indice de Nani
 
-## Summary
+## Summary / Resumen
 
 This repository contains all the public proyects of [Nani](https://github.com/nanisst).
 
